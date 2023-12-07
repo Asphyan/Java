@@ -1,4 +1,4 @@
-public class Quest2 {
+public class Quest02 {
 
     public static int[][] multiply(int[][] A, int[][] B) {
         int n = A.length;

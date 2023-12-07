@@ -1,4 +1,4 @@
-public class Quest1 {
+public class Quest01 {
     public static int[] decomposicao(int[] S, int piv, int p, int r) {
         if (p == r) {
             return new int[]{p, p};

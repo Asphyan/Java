@@ -1,4 +1,4 @@
-public class Quest6 {
+public class Quest06 {
     public static String maximaSubsequenciaPalindroma(String s) {
         int n = s.length();
         int[][] dp = new int[n][n];

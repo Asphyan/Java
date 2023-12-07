@@ -3,7 +3,7 @@ import java.util.Map;
 
 //Solução O(n)
 
-public class Quest3 {
+public class Quest03 {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numMap = new HashMap<>();
         
@@ -19,7 +19,7 @@ public class Quest3 {
     }
 
     public static void main(String[] args) {
-        Quest3 solucao = new Quest3();
+        Quest03 solucao = new Quest03();
         
         // Exemplo 1
         int[] nums1 = {2, 7, 11, 15};

@@ -1,4 +1,4 @@
-public class Quest7 {
+public class Quest07 {
     public static int[] quadradosOrdenados(int[] nums) {
         int n = nums.length;
         int[] result = new int[n];

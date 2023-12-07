@@ -1,4 +1,4 @@
-public class Quest4 {
+public class Quest04 {
     public int maioriaElemento(int[] nums) {
         int contagem = 0;
         int candidato = 0;
@@ -18,7 +18,7 @@ public class Quest4 {
     }
 
     public static void main(String[] args) {
-        Quest4 solucao = new Quest4();
+        Quest04 solucao = new Quest04();
 
         // Exemplo
         int[] nums = {2, 2, 1, 1, 1, 2, 2};
