@@ -1,12 +1,14 @@
-public class Personagem{
+package Personagens;
 
-    //Encapsulamento
+public class Personagem {
 
-    private String nome;
+    //variáveis encapsuladas (private)
+
     private double vida;
+    private String nome;
     private String descricao;
 
-    //Construtor
+    //construtor
 
     public Personagem(String nome, double vida, String descricao){
         this.nome = nome;
@@ -14,22 +16,22 @@ public class Personagem{
         this.descricao = descricao;
     }
 
-    //Get's
+    //get's
 
-    public String getNome(){
-        return nome;
-    }
-
-    public double getVida(){
+    public double getVida() {
         return vida;
     }
 
-    public String getDescricao(){
+    public String getNome() {
+        return nome;
+    }
+
+    public String getDescricao() {
         return descricao;
     }
-    
-    //Set's
-    
+
+    //set's
+
     public void setVida(double vida) {
         this.vida = vida;
     }
