@@ -1,4 +1,4 @@
-package Atv4.Quest2Comparacao;
+package Atv3.Quest2Comparacao;
 
 public class Main {
     public static void main(String[] args) {

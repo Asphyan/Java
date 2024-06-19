@@ -1,4 +1,4 @@
-package Atv4.Quest1Empresa;
+package Atv3.Quest1Empresa;
 
 public class Funcionario {
     String nome;

@@ -1,4 +1,4 @@
-package Atv4.Quest3MultArray;
+package Atv3.Quest3MultArray;
 
 public class MultiplicacaoArray {
     public static void main(String[] args) {
